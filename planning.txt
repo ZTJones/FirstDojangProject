@@ -1,0 +1,56 @@
+Really?  Planning?
+
+
+
+
+
+
+    CODE CASE REVIEW
+
+
+Ideas:
+What magic idea, or workflow, would you like to have?
+What parts of ACS do you want to understand better?  Do you want to test video calls? Phone calls?
+
+    Start here:
+    ACS User management // Keeping track of user IDs. Probably useful for a mongoDB.
+    OAuth, AAD, etc                             
+    Calling
+    SMS
+    Emailing
+    PSTN
+    Teams Calling Interop
+
+
+
+    GraphAPI - Teams meeting generator. Need teams tenant. (Might have one already, should be easy to get)
+
+
+
+
+
+
+
+Timeline:
+
+    1 week:
+        Basics, 
+    2 weeks:
+
+    3 weeks:
+        
+    
+
+
+Architecture
+
+    Backend:
+        Mongo,
+        Express.js,
+        Node,
+        webSocket/socket.io (optional)
+
+    Frontend:
+        HTML 5
+        JavaScript
+        CSS
