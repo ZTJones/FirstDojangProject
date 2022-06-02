@@ -27,19 +27,25 @@ What parts of ACS do you want to understand better?  Do you want to test video c
 
 
 
-
-
-
-
 Timeline:
 
-    1 week:
-        Basics, 
-    2 weeks:
-
-    3 weeks:
-        
+    Week 1:
+        Basics, Full Stack explanation/exploration
+    Week 2:
+        Individual quick starts. Dojang is for review. 
+    Week 3:
+        "Integrations." UI will be a concern when combining quick starts. 
+    Week 4:
+        Break time.
     
+EXPECTATIONS: (What do we even have at the end of this?)
+    A "complete" website, to act as a full stack teaching aid.  Doesn't need any further functionality.
+    Stretch goals:
+        Chat
+        PSTN
+        SMS
+        And all the other awesome ACS functions.
+
 
 
 Architecture
@@ -48,7 +54,7 @@ Architecture
         Mongo,
         Express.js,
         Node,
-        webSocket/socket.io (optional)
+        webSocket/socket.io (optional) // Stretch goal
 
     Frontend:
         HTML 5
