@@ -13,13 +13,13 @@ What magic idea, or workflow, would you like to have?
 What parts of ACS do you want to understand better?  Do you want to test video calls? Phone calls?
 
     Start here:
-    ACS User management // Keeping track of user IDs. Probably useful for a mongoDB.
-    OAuth, AAD, etc                             
-    Calling
-    SMS
+    ACS User management - Zach // Keeping track of user IDs. Probably useful for a mongoDB.
+    OAuth, AAD, etc  - Corey                        
+    Calling ACS2ACS - Zach
+    SMS - Carlos
     Emailing
     PSTN
-    Teams Calling Interop
+    Teams Calling Interop - Corey
 
 
 
